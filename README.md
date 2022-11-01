@@ -1,11 +1,11 @@
 # Engineering-FY-Project-
 This repository contains the deocumentation of my final year project.
 
-##Note:
+## Note:
 Kindly ensure you strictly use this report as a reference <b>ONLY</b>. We have published a paper in <b>2022 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)</b>
 Link for paper: <a href="https://ieeexplore.ieee.org/document/9865823"</a>
 
-###Abstract
+### Abstract
 58% of India’s population relies on agriculture to earn their living. In view of this, farmers contribute
 most to the Indian economy among many other professions. While technology evolves, the agricultural
 sector still follows ad-hoc procedures and is yet to be digitised. Starting from sowing seeds,
